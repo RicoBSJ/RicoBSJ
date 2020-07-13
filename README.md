@@ -8,12 +8,12 @@ Si mon profil vous intéresse n'hésitez pas à m'appeler [@aubrun_eric](https:/
 
 
 <details>
-  <summary><strong>Ce que j'apprends/travaille ces jours-ci</strong></summary>
+  <summary><strong>Ce que j'apprend/travaille ces jours-ci :</strong></summary>
   - SQL <br/>
   - HQL (SQL à la "sauce" Hibernate)<br/>
   - Hibernate (ORM)<br/>
   - Java <br/>
-  - J2EE (Servlet + JSP + JSTL + EL) Ces outils sont désués depuis quelques années mais leur apprentissage est nécessaire au préalable de l'utilisation des framewoks actuels. En effet, l'utilisation de ceux-ci ne permet pas d'acquérir les compétences nécessaires pour pouvoir débugger un programme dont l'exécution "plante". <br/>
+  - J2EE : Les outils tels que Servlet, JSP, JSTL, Expression Langage sont désués depuis quelques années mais leur apprentissage est nécessaire au préalable de l'utilisation des framewoks actuels. En effet, l'utilisation de ceux-ci ne permet pas d'acquérir les compétences nécessaires pour pouvoir débugger un programme dont l'exécution "plante". <br/>
   - CSS <br/>
   - Bootstrap
 
